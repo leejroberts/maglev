@@ -5,9 +5,9 @@ Gem::Specification.new do |spec|
   spec.version     = Maglev::VERSION
   spec.authors     = ["leejroberts"]
   spec.email       = ["leejamesroberts@gmail.com"]
-  spec.homepage    = "TODO"
-  spec.summary     = "TODO: Summary of Maglev."
-  spec.description = "TODO: Description of Maglev."
+  spec.homepage    = "https://leejroberts.com"
+  spec.summary     = "Maglev makes rails even faster"
+  spec.description = "Maglev makes rails even faster"
   spec.license     = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
